@@ -1,0 +1,5 @@
+https://www.youtube.com/img/favicon.ico
+https://www.youtube.com/img/favicon_144.png
+https://www.youtube.com/img/favicon_32.png
+https://www.youtube.com/img/favicon_48.png
+https://www.youtube.com/img/favicon_96.png
